@@ -1,4 +1,4 @@
-### Hi there 👋
+###                                                       Hi there 👋
 
 <!--
 **mfsva/mfsva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/mfsva?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!--<div align="center"> <img src="https://metrics.lecoq.io/mfsva?template=classic&config.timezone=Asia%2FShanghai"> </div>-->
+
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=mfsva" /> </div>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢，最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
+
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfsva" /> </div>
