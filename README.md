@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);人呢，最重要的是找到属于自己的世界！&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(人呢，最重要的是找到属于自己的世界！&center=true&size=27"> </a> </h1>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfsva" /> </div>
