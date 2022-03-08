@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <!--<div align="center"> <img src="https://metrics.lecoq.io/mfsva?template=classic&config.timezone=Asia%2FShanghai"> </div>-->
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfsva&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfsva&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
