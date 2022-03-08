@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<div align="center"> <img src="https://metrics.lecoq.io/mfsva?template=classic&config.timezone=Asia%2FShanghai"> </div>-->
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfsva&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfsva&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=mfsva" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfsva" /> </div>
