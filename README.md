@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<div align="center"> <img src="https://metrics.lecoq.io/mfsva?template=classic&config.timezone=Asia%2FShanghai"> </div>-->
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人呢最重要的是找到属于自己的世界！&center=true&size=15"> </a> </h1>
+
 ![mfsva's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
